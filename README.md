@@ -9,7 +9,7 @@ Former Healthcare Data Analyst and Consultant currently in the process of updati
 * 🌍  I'm based in Pennsylvania bordering Bucks and Lehigh Counties.
 * ✉️  You can contact me at [01feenix@gmail.com](mailto:01feenix@gmail.com)
 * 🧠  I'm learning SQL, Advanced Excel, Python
-* ⚡  Education from Temple University Fox School of Business includes Bachelor of Business Administration; and an MBA in Healthcare Administration and MS in Healthcare Financial Management (Dual Degree Program)
+* ⚡  Education from Temple University Fox School of Business includes BBA Business Administration; MBA Healthcare Administration/MS Healthcare Financial Management (Dual Degree Program)
 
 <a href="https://www.github.com/DataScienceRay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DataScienceRay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
