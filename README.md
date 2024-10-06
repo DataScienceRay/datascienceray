@@ -1,5 +1,5 @@
-Hi 👋 My name is Ray Dougherty
-==============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ray Dougherty
+=====================================================================================================================================
 
 Data Analyst
 ------------
@@ -7,6 +7,7 @@ Data Analyst
 Former Healthcare Data Analyst and Consultant currently in the process of updating, expanding, and adding skills to previous experience. Detail oriented and zealous in analysis and problem solving.
 
 * 🌍  I'm based in in Pennsylvania bordering Bucks and Lehigh Counties.
+* ✉️  You can contact me at [01feenix@gmail.com](mailto:01feenix@gmail.com)
 * 🧠  I'm learning SQL, Advanced Excel, Python
 * ⚡  Education from Temple University Fox School of Business includes Bachelor of Business Administration; and an MBA in Healthcare Administration and MS in Healthcare Financial Management (Dual Degree Program)
 
