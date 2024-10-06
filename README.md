@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Former Healthcare Data Analyst and Consultant currently in the process of updating, expanding, and adding skills to previous experience. Detail oriented and zealous in analysis and problem solving.
+Former Healthcare Data Analyst and Consultant currently in the process of updating, expanding, and adding skills to previous experience. Detail oriented and an analysis and problem-solving zealot.
 
 * 🌍  I'm based in in Pennsylvania bordering Bucks and Lehigh Counties.
 * ✉️  You can contact me at [01feenix@gmail.com](mailto:01feenix@gmail.com)
