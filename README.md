@@ -4,11 +4,11 @@ Hi 👋 My name is Ray Dougherty
 Data Analyst
 ------------
 
-Former Healthcare Data Analyst and Consultant refreshing, enhancing, and adding skills to these areas of expertise. Project and detail oriented with a zeal for analysis and problem solving.
+Former Healthcare Data Analyst and Consultant updating, enhancing and adding skills to these areas of experience. Detail oriented with a zeal for analyzing, problem solving and projects.
 
 * 🌍  I'm based in in Pennsylvania bordering Bucks and Lehigh Counties.
 * 🧠  I'm learning SQL, Advanced Excel, Python
-* ⚡  Detail oriented and outgoing
+* ⚡  Education from Temple University Fox School of Business includes Bachelor of Business Administration; and an MBA in Healthcare Administration and MS in Healthcare Financial Management (Dual Degree Program)
 
 <a href="https://www.github.com/DataScienceRay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DataScienceRay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
