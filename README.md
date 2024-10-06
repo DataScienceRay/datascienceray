@@ -4,9 +4,9 @@ Hi 👋 My name is Ray Dougherty
 Data Analyst
 ------------
 
-I am a former Healthcare Data Analyst and Consultant engaged in what is necessary to return to the field. I am project oriented and love to analyze things.
+A former Healthcare Data Analyst and Consultant engaged in what is necessary to return to the field. I am project oriented and love to analyze things.
 
-* 🌍  I'm based in On the border of Bucks and Lehigh Counties in Pennsylvania.
+* 🌍  I'm based in in Pennsylvania bordering Bucks and Lehigh Counties.
 * 🧠  I'm learning SQL, Advanced Excel, Python
 * 🤝  I'm open to collaborating on Projects, Opportunities and Suggestions
 * ⚡  I am outgoing and a quick learner.
